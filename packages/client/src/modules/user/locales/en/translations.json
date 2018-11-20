@@ -1,10 +1,10 @@
 {
   "navLink": {
     "users": "Users",
-    "sign": "Sign In",
+    "sign": "Log In",
     "logout": "Logout",
-    "profile": "Profile",
-    "editProfile": "Edit profile",
+    "profile": "Mi Perfil",
+    "editProfile": "Editar Perfil",
     "editUser": "Edit user",
     "forgotPassword": "Forgot password",
     "register": "Register",
@@ -49,18 +49,18 @@
 
   "profile": {
     "title": "Profile",
-    "headerText": "Profile info",
+    "headerText": "Mis datos",
     "meta": "Profile example page",
     "loadMsg": "Loading...",
     "errorMsg": "No current user logged in",
-    "editProfileText": "Edit Profile",
+    "editProfileText": "Editar Perfil",
     "card": {
       "title": "Profile",
       "group": {
-        "name": "User Name",
+        "name": "Nombre de usuario",
         "email": "Email",
-        "role": "Role",
-        "full": "Full Name"
+        "role": "Equipo",
+        "full": "Nombre"
       },
       "fldEmail": "Email",
       "btnSubmit": "Send Reset Instructions"

@@ -25,7 +25,7 @@ const PostForm = ({ values, handleSubmit, t }) => {
         value={values.title}
         placeholderTextColor={placeholderColor}
       />
-      <Field
+      {/* <Field
         name="content"
         component={RenderField}
         type="text"
@@ -37,7 +37,7 @@ const PostForm = ({ values, handleSubmit, t }) => {
         <Button type={primary} onPress={handleSubmit}>
           {t('post.btn.submit')}
         </Button>
-      </View>
+      </View> */}
     </FormView>
   );
 };

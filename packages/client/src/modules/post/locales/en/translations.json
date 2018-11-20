@@ -1,12 +1,12 @@
 {
-  "navLink": "Posts",
+  "navLink": "Jugadores",
   "comment": {
-    "title": "Comments",
+    "title": "Solicitudes",
     "label": {
-      "field": "Comment",
-      "add": "Add",
+      "field": "Ninguna solicitud activa",
+      "add": "Solicitar",
       "edit": "Edit",
-      "comment": "comment"
+      "comment": "jugador"
     },
     "btn": {
       "edit": "Edit",
@@ -20,7 +20,7 @@
   },
 
   "post": {
-    "title": "Edit post",
+    "title": "Solicitar jugador",
     "meta": "Edit post example page",
     "loadMsg": "Loading...",
     "noPostsMsg": "There are no posts yet.",
@@ -31,28 +31,28 @@
       "back": "Back"
     },
     "label": {
-      "edit": "Edit",
-      "create": "Create",
-      "post": "Post"
+      "edit": "Solicitar",
+      "create": "Crear",
+      "post": "Jugador"
     },
     "field": {
-      "title": "Title",
+      "title": "Nombre",
       "content": "Content"
     }
   },
 
   "list": {
-    "title": "Posts",
+    "title": "Jugadores",
     "meta": "List of all posts example page",
     "column": {
       "title": "Title",
       "actions": "Actions"
     },
     "btn": {
-      "add": "Add",
+      "add": "+",
       "del": "Delete",
       "more": "Load more ..."
     },
-    "subTitle": "Post list"
+    "subTitle": "Jugadores"
   }
 }
